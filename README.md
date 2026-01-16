@@ -1,4 +1,14 @@
-## Olá, Eu sou a Miuke e sou Desenvolvedora Front-End!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Bem+Vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+
+<h1 text-align="center">Olá, eu sou a Maria Tagomori (Miuke)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'</h1>
+
+### Sobre mim
+
+- 💻 Sou uma desenvolvedora Front-End! Especialista em JAVA, ReactJS e Angular.
+- 🎓 Tenho técnico em desenvolvimento de sistemas e atualmente no penúltimo ano de Engenharia de Software.
+- 🔭 Sou apaixonada por astronomia.
+- 📖 Gosto muito de ler, principalmente filosofia.
+- 💫 Tenho um estúdio de desenvolvimento de software (ainda em construção).
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
