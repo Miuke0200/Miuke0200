@@ -21,7 +21,6 @@
 
 </div><br/>
 
-### Visitor Count
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
 </div>
