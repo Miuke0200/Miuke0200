@@ -20,5 +20,11 @@
  <img align="center" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 
 </div><br/>
+
+### Visitor Count
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
+</div>
+
  Em construção...
   
