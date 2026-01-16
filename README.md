@@ -5,10 +5,13 @@
 ### Sobre mim
 
 - 💻 Sou uma desenvolvedora Front-End! Especialista em JAVA, ReactJS e Angular.
-- 🎓 Tenho técnico em desenvolvimento de sistemas e atualmente no penúltimo ano de Engenharia de Software.
 - 🔭 Sou apaixonada por astronomia.
 - 📖 Gosto muito de ler, principalmente filosofia.
 - 💫 Tenho um estúdio de desenvolvimento de software (ainda em construção).
+
+### Formação Academica
+- Técnico em Desenvolvimento de Sistemas - Etec Carmine Biagio Tundisi (2023)
+- Graduação em Engenharia de Software -  Universidade Santo Amaro (2024 - 2027)
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
