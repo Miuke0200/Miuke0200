@@ -10,7 +10,7 @@
 - 💫 Tenho um estúdio de desenvolvimento de software (ainda em construção).
 
 ### Formação Academica
-- Técnico em Desenvolvimento de Sistemas - Etec Carmine Biagio Tundisi (2023)
+- Técnico em Desenvolvimento de Sistemas - Etec Carmine Biagio Tundisi (2021 - 2023)
 - Graduação em Engenharia de Software -  Universidade Santo Amaro (2024 - 2027)
 
 <div style="display: inline_block">
