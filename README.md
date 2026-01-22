@@ -19,7 +19,7 @@
  <img align="center" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 
 </div><br/>
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/697268065c049b2765ef9e44?variant=dark" alt="roadmap.sh"/></a>
 
  Em construção...
   
