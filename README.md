@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Bem+Vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<h1 text-align="center">Olá, eu sou a Maria Tagomori (Miuke)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'</h1>
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Maria%20%20Tagomori&section=header&reversal=false&textBg=false&fontColor=FFFFFF&desc=Desenvolvedora%20de%20Software&descAlign=35&animation=fadeIn)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Sobre mim
 
@@ -21,9 +22,6 @@
 
 </div><br/>
 
-<div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
-</div>
 
  Em construção...
   
