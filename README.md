@@ -1,8 +1,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Maria%20%20Tagomori&section=header&reversal=false&textBg=false&fontColor=FFFFFF&desc=Desenvolvedora%20de%20Software&descAlign=35&animation=fadeIn)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ### Sobre mim
 
 - 💻 Sou uma desenvolvedora Front-End! Especialista em JAVA, ReactJS e Angular.
