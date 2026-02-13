@@ -3,10 +3,9 @@
 
 ### Sobre mim
 
-- 💻 Sou uma desenvolvedora Front-End! Especialista em JAVA, ReactJS e Angular.
+- 💻 Sou uma desenvolvedora Front-End!
 - 🔭 Sou apaixonada por astronomia.
 - 📖 Gosto muito de ler, principalmente filosofia.
-- 💫 Tenho um estúdio de desenvolvimento de software (em construção)!
 
 ### Formação Academica
 - Técnico em Desenvolvimento de Sistemas - Etec Carmine Biagio Tundisi (2021 - 2023)
