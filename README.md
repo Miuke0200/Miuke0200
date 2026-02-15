@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-- 💻 Sou uma desenvolvedora Front-End!
+- 💻 Sou uma desenvolvedora FullStack!
 - 🔭 Sou apaixonada por astronomia.
 - 📖 Gosto muito de ler, principalmente filosofia.
 
